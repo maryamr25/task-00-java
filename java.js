@@ -34,7 +34,7 @@
 
 // const str1 = prompt("Enter a first string");
 // const str2 = prompt("Enter a secand string");
-// if(str1 === str2){
+// if(str1.length === str2.length){
 //     console.log("the string characters are equal");
 // }
 // else{
